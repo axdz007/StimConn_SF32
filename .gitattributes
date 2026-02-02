@@ -1,0 +1,3 @@
+*.prjpcb linguist-language=Hardware
+*.schdoc linguist-language=Hardware
+*.pcbdoc linguist-language=Hardware
